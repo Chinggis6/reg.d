@@ -1,0 +1,23 @@
+windows registry editor version 5.00
+
+[hkey_classes_root\lnkfile]
+"nevershowext"=""
+
+[hkey_classes_root\internetshortcut]
+"nevershowext"=""
+
+[hkey_classes_root\piffile]
+"nevershowext"=""
+
+[hkey_classes_root\shcmdfile]
+"nevershowext"=""
+
+[hkey_classes_root\shellscrap] 
+"nevershowext"=""
+
+[hkey_classes_root\docshortcut]
+"nevershowext"=""
+
+[hkey_classes_root\xnkfile]
+"nevershowext"=""
+

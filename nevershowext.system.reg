@@ -1,0 +1,30 @@
+Windows Registry Editor Version 5.00
+
+; http://www.askvg.com/tip-how-to-show-file-extensions-of-shortcuts-lnk-url-pif-in-windows-explorer/
+
+; .lnk
+[hkey_classes_root\lnkfile]
+"nevershowext"=-
+; .url
+[hkey_classes_root\internetshortcut]
+"nevershowext"=-
+
+; .pif
+[hkey_classes_root\piffile]
+"nevershowext"=-
+
+; .scf
+[hkey_classes_root\shcmdfile]
+"nevershowext"=-
+
+; .shs
+[hkey_classes_root\shellscrap] 
+"nevershowext"=-
+
+; .shb
+[hkey_classes_root\docshortcut]
+"nevershowext"=-
+
+; .xnk
+[hkey_classes_root\xnkfile]
+"nevershowext"=-

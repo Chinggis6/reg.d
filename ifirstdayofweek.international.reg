@@ -1,0 +1,5 @@
+Windows Registry Editor Version 5.00
+
+[hkey_current_user\control panel\international]
+
+"ifirstdayofweek"="0"
